@@ -1,6 +1,6 @@
 # Hi, I'm Miles 👋
 
-Mathematics & Philosophy student at the **University of York**, working as a full-stack software developer on the side. I like building things that actually ship — AI features, web and mobile apps, data pipelines — and writing clearly about them after.
+Mathematics & Philosophy student at the **University of York**, working as a full-stack software developer on the side. I like building things that actually ship. AI features, web and mobile apps, data pipelines — and writing clearly about them after.
 
 ---
 
@@ -26,7 +26,7 @@ Beyond code: martial arts (Muay Thai, BJJ, boxing — trained in Thailand, two a
 
 ### 📫 Get in touch
 
-- 📧 milesbloom526@gmail.com
+- 📧 milesbloom526[at]gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/miles-bloom-319658254/)
 - 📍 London, England
 
